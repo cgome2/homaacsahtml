@@ -1,7 +1,7 @@
 {
         "apiServer": {
                 "API_URL_BASE": "https://172.25.24.251:3000",
-                "AREAS": "/areas",
+                "AREAS": "/areas", 
                 "BACKUPS": "/backups",
                 "CERTIFICADOS_SISTEMA": "/certificados_sistema",
                 "CHEMICALS_PRODUCTS_ANALYSES": "/chemicals_products_analyses",
