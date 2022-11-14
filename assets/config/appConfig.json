@@ -1,6 +1,6 @@
 {
         "apiServer": {
-                "API_URL_BASE": "https://172.25.247.253:3000",
+                "API_URL_BASE": "https://172.25.247.153:3000",
                 "AREAS": "/areas",
                 "BACKUPS": "/backups",
                 "CERTIFICADOS_SISTEMA": "/certificados_sistema",
